@@ -1,0 +1,4 @@
+Algorithm,Accuracy,Precision,Recall,F1-Score,Average Time (sec)
+Our Own kNN,1.0,1.0,1.0,1.0,0.0002485487000015496
+Scikit-Learn kNN,1.0,1.0,1.0,1.0,0.0009653128999985938
+GenAI kNN,1.0,1.0,1.0,1.0,9.250509999816358e-05
